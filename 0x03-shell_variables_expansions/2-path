@@ -1,2 +1,2 @@
 #!/bin/bash
-report PATH=$PATH:/action
+PATH=$PATH:/action
